@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Your App Changelog</title>
+    <link>https://yourwebsite.com/appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.1</title>
+      <sparkle:releaseNotesLink>https://yourwebsite.com/releases/1.0.1/notes.html</sparkle:releaseNotesLink>
+      <pubDate>Mon, 5 Apr 2023 12:00:00 +0000</pubDate>
+      <enclosure url="https://yourwebsite.com/releases/1.0.1/YourApp-1.0.1.zip" sparkle:version="1.0.1" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
