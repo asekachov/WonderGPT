@@ -23,7 +23,7 @@
     </item>
    
    <item>
-      <title>Version 1.1.0</title>
+      <title>Version 1.1.1</title>
       <sparkle:releaseNotesLink>https://yourwebsite.com/app_release_notes/1.1.0.html</sparkle:releaseNotesLink>
       <pubDate>Tue, 10 Aug 2021 12:00:00 GMT</pubDate>
       <enclosure url="https://yourwebsite.com/appname_1.1.0.zip" sparkle:version="1.1.0" length="123456" type="application/octet-stream"/>
