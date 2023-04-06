@@ -15,7 +15,7 @@
           url="https://asekachov.github.io/wonderGPT/Builds/wonderGPT-1.0.1.zip"
           sparkle:version="1.0.1"
           sparkle:shortVersionString="1.0.1"
-          sparkle:edSignature="0C7D09D53FA3B760C5EC40661E345E12B56FD110"
+          sparkle:edSignature="some_key"
           length="4314124"
           type="application/octet-stream"
       />
